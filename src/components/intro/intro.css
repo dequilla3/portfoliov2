@@ -34,12 +34,11 @@
 
 .i-title {
   height: 50px;
-  overflow: hidden;
 }
 
 .i-title-wrapper {
   height: 100%;
-  animation: move 3s ease-in-out infinite alternate;
+  animation: move 0.8s ease-in-out infinite alternate;
 }
 
 @keyframes move {
