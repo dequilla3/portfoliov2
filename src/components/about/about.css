@@ -37,22 +37,18 @@
   object-fit: cover;
 }
 
-.a-educ-img {
-  width: 120px;
-  height: 120ppx;
-  border-radius: 20px;
-}
-
 .a-title {
   font-weight: 400;
 }
 
 .a-sub {
   margin: 20px 0px;
+  width: 80%;
 }
 
 .a-desc {
   font-weight: 400;
+  width: 80%;
 }
 
 .a-educ {
@@ -61,6 +57,12 @@
   align-items: center;
   justify-content: space-between;
   width: 80%;
+}
+
+.a-educ-img {
+  width: 120px;
+  height: 120ppx;
+  border-radius: 20px;
 }
 
 .a-educ-title {
