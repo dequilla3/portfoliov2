@@ -2,7 +2,7 @@
   width: 30%;
   height: 50vh;
   margin: 20px 10px;
-  border: 2px solid rgb(243, 242, 242);
+  border: 2px solid rgb(78, 75, 75);
   border-radius: 10px 10px 0px 0px;
   overflow: hidden;
 }
@@ -43,4 +43,35 @@
 .p-name {
   padding-left: 10px;
   font-weight: 600;
+}
+@media screen and (max-width: 480px) {
+  .i {
+    flex-direction: column;
+  }
+
+  .i-left-wrapper {
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 100%;
+  }
+
+  .i-desc {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .pl {
+    padding: 10px;
+  }
+
+  .pl-texts {
+    width: 100%;
+  }
+
+  .pl-desc {
+    display: none;
+  }
 }

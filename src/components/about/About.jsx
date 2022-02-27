@@ -29,9 +29,10 @@ const About = () => {
         <div className="a-educ">
           <img src={aclc} alt="" className="a-educ-img" />
           <div className="a-educ-text">
-            <h4 className="a-educ-title">ACLC College of Marbel 2020</h4>
+            <h4 className="a-educ-title">ACLC College of Marbel</h4>
             <p className="a-educ-desc">
-              Studied Bachelor of Science in Information Technology
+              Studied Bachelor of Science in Information Technology. I graduated
+              last April 2020.
             </p>
           </div>
         </div>
