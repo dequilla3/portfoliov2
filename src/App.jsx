@@ -5,10 +5,14 @@ import Intro from "./components/intro/Intro";
 import ProjectList from "./components/projectlist/ProjectList";
 import Toggle from "./components/toggle/Toggle";
 import { ThemeContext } from "./context";
+import React, { useEffect } from "react";
 
 function App() {
   const theme = useContext(ThemeContext);
   const darkMode = theme.state.darkMode;
+  useEffect(() => {
+    document.title = "Kim Dequilla | Portfolio";
+  }, []);
   return (
     <div className="App">
       <div

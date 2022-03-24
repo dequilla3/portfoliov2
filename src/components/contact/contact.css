@@ -79,4 +79,30 @@ button {
   .c-wrapper {
     flex-direction: column;
   }
+
+  .c-title {
+    display: none;
+  }
+
+  .c-info-item {
+    display: flex;
+    align-items: center;
+    margin: 20px 0px;
+    font-weight: 300;
+    font-size: 14px;
+  }
+
+  .c-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+  }
+  form {
+    margin-top: 10px;
+  }
+
+  .c-wrapper {
+    padding: 30px;
+    display: flex;
+  }
 }

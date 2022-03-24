@@ -7,11 +7,8 @@ const ProjectList = () => {
   return (
     <div className="pl">
       <div className="pl-texts">
-        <h1 className="pl-title">My Personal Projects</h1>
-        <p className="pl-desc">
-          These are my projects that I've created as I'm currently learning new
-          technologies.
-        </p>
+        <h1 className="pl-title">My Projects</h1>
+        <p className="pl-desc">Take a look at my simple projects in GitHub.</p>
       </div>
       <div className="pl-list">
         {projects.map((item) => (

@@ -32,7 +32,7 @@
   }
 
   .pl-texts {
-    width: 100%;
+    display: none;
   }
 
   .pl-desc {
