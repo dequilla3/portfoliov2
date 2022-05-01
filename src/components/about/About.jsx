@@ -15,14 +15,13 @@ const About = () => {
       <div className="a-right">
         <h1 className="a-title">About Me</h1>
         <p className="a-sub">
-          Motivated BS Information Technology graduate from the ACLC College of
-          Marbel with more than 1 year of experience in software development.
-          Seeking to use proven skills in Java to meet business needs. I have
-          just 2 years of experience as a Software Developer. Throughout my
-          career, I have done some of my best work under pressure. I find that
-          routine makes us complacent, and I am always looking for challenges
-          that push me to give my best and to quickly come up with working
-          solutions.
+          Hi, I'm Kim a motivated BS Information Technology graduate from AMA
+          Computer Learning Center (ACLC) College with 2 years of working
+          experience in software development. Seeking to use proven skills in
+          Java to meet business needs. Throughout my career, I have done some of
+          my best work under pressure. I find that routine makes us complacent,
+          and I am always looking for challenges that push me to give my best
+          and to quickly come up with working solutions.
         </p>
         <div className="a-educ">
           <img src={aclc} alt="" className="a-educ-img" />
