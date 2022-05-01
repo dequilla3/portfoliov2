@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfoliov2/static/css/main.57cf3732.css",
+    "main.js": "/portfoliov2/static/js/main.34438157.js",
+    "static/media/me.jpg": "/portfoliov2/static/media/me.eb97adc8f90adbe2a696.jpg",
+    "static/media/me2.jpg": "/portfoliov2/static/media/me2.3dafb35164b2c587dbf3.jpg",
+    "static/media/login.png": "/portfoliov2/static/media/login.4aea662a08a1be140b34.png",
+    "static/media/messages.png": "/portfoliov2/static/media/messages.2ebef04d8cd0cb519c6b.png",
+    "static/media/aclc_logo.png": "/portfoliov2/static/media/aclc_logo.680ac298d75891a4f9e9.png",
+    "static/media/to-do-list.png": "/portfoliov2/static/media/to-do-list.feae4fa7f7b31dc1613c.png",
+    "static/media/address.png": "/portfoliov2/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/portfoliov2/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/sun.png": "/portfoliov2/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/phone.png": "/portfoliov2/static/media/phone.d90a6d23cf5129d853bb.png",
+    "static/media/moon.png": "/portfoliov2/static/media/moon.3bea3d398a25611d421b.png",
+    "index.html": "/portfoliov2/index.html",
+    "main.57cf3732.css.map": "/portfoliov2/static/css/main.57cf3732.css.map",
+    "main.34438157.js.map": "/portfoliov2/static/js/main.34438157.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57cf3732.css",
+    "static/js/main.34438157.js"
+  ]
+}
